@@ -3,8 +3,102 @@ Nama	: Siti Zuhrotun Nafi’atur Rohmah
 NPM	: 19081010067
 
 MK	: Manajemen Proyek  A081
+# PENGENALAN ASANA
+Sumber : https://www.ekrut.com/media/mengenal-asana-project-management-tools-untuk-memudahkan-pekerjaan
 
-# TUTORIAL PENGGUNAAN TOOLS PROJECT MANAGEMENT (ASANA)
+## Apa itu Asana?
+![trademark-logo-lockup-horizontal](https://github.com/sitizuhrotun/Tutorial-Asana/assets/71641251/3b7d0f1b-6548-40ad-b560-bd5a77414f2f)
+
+Mengutip dari laman Simplilearn, Asana adalah project management tools yang memfasilitasi tim untuk mengatur, berkolaborasi, dan mengeksekusi pekerjaan dengan lebih mudah dan efisien. Asana hadir sebagai tools yang bisa diandalkan ketika load pekerjaan tengah menumpuk dan ada banyak deadline yang harus dikejar.
+
+Asana adalah project management tools berbasis web yang bisa menyelesaikan ribuan email yang masih berantakan dan mengkategorisasi pekerjaan sehingga lebih mudah dipantau. Dengan Asana, para anggota tim bisa melacak progress semua pekerjaan, berkolaborasi dengan sesama anggota tim, bertukar dokumen, dan lain sebagainya.
+
+Sebelum digunakan oleh jutaan orang yang tersebar di 195 negara, Asana lahir dari keresahan dua engineer Facebook bernama Dustin Moskovitz dan Justin Rosenstein. Ketika platform media sosial berwarna biru itu terus mengalami perkembangan secara pesat, mereka berdua menyadari bahwa jam kerja mayoritas karyawan habis untuk membalas email, menghadiri meeting, dan mencari info. Karyawan di Facebook–dan jutaan karyawan lainnya–sibuk work about work dan bukannya mengerjakan tugas sesuai job description.
+
+Atas dasar itulah, Moskovitz dan Rosenstein membangun platform yang bisa mengkoordinasikan anggota tim dengan mudah. Dengan adanya Asana, anggota tim tidak hanya mendapatkan kejelasan tentang pekerjaan apa saja yang harus dikerjakan dan detail pekerjaannya tetapi juga mengetahui kapan harus menggali ide-ide baru untuk dituangkan. Asana membantu penggunanya bisa mengoptimalkan waktu sambil tetap berproses kreatif di tengah kesibukan.
+
+## Fitur yang tersedia di Asana
+Mengutip dari laman Tallyfy, fitur Asana bisa dibagi ke dalam lima kategori besar. Berikut penjelasannya.
+
+1. Project management
+
+Dengan berbagai fiturnya, Asana memfasilitasi penggunanya untuk mengelompokkan tugas dan menyelesaikannya sesuai urutan prioritas. Adapun fitur yang termasuk ke dalam kategori project management ini adalah sebagai berikut.
+
+>> Subtasks — fitur ini berguna untuk membagi suatu tugas ke dalam bagian-bagian yang lebih sederhana.
+
+>> Task assignees — fitur ini berfungsi untuk membagi tugas kepada anggota tim yang berbeda-beda sehingga setiap individu bisa mengerjakan pekerjaan yang sesuai dengan tanggung jawabnya.
+
+>> Create sections and columns — fitur ini memfasilitasi penggunanya untuk mengelompokkan tugas-tugas berdasarkan kepentingan atau kategori yang sudah ditentukan sehingga list task terlihat lebih tertata.
+
+>> Custom fields — fitur ini bisa dimanfaatkan untuk membuat nomor atau text custom sesuai keinginan. Kamu juga bisa memberikan notifikasi yang berbeda pada setiap custom fields.
+
+>> Forms — fitur ini membantu penggunanya memahami detail yang diberikan anggota lain tentang request, brief, atau yang lainnya.
+
+>> Due time & dates — dengan fitur satu ini, penggunanya bisa mengatur tenggat waktu tugas yang diberikan sehingga semua pekerjaan bisa terpantau dan tidak melebihi deadline yang diberikan.
+
+>> Goals — fitur ini berguna untuk mengatur, memantau, dan mengelola target, baik di tingkat eksekutif, manajerial, atau untuk masing-masing individu.
+
+>> Milestones — fitur ini berfungsi untuk memotivasi anggota tim dengan membuat target-target kecil yang bisa mendorong progresivitas individu.
+
+>> Timeline — fitur ini memfasilitasi penggunanya untuk melihat linimasa pekerjaan secara menyeluruh dan menyesuaikan diri dengan jadwal yang sudah diatur.
+
+>> Attachments — fitur ini bisa dimanfaatkan untuk mengunggah file dari komputer, Google Drive, OneDrive, Dropbox, dan masih banyak lagi.
+
+>> Likes — fitur ini membantu penggunanya untuk memberi tanggapan berupa like (seperti di media sosial) terhadap task yang sudah diselesaikan oleh anggota tim.
+
+>> Assign tasks in multiple projects – dengan fitur satu ini, penggunanya dapat memberikan beberapa tugas dengan detail yang berbeda secara langsung.
+
+2. Communication
+
+Berikut adalah fitur yang tergolong ke dalam kategori communication.
+
+>> Proofing — fitur ini berguna untuk memberikan masukan atau tanggapan yang jelas terhadap task anggota tim. Penggunanya semakin dimudahkan karena ia bisa langsung mengomentari di gambar atau PDF yang diunggah di Asana.
+
+>> Project conversations — fitur ini memfasilitasi penggunanya untuk melakukan diskusi proyek.
+
+>> Team pages — fitur ini membantu penggunanya untuk berdiskusi secara langsung di halaman kerja (mirip seperti pengerjaan tugas menggunakan Google Docs yang tautannya dibagikan ke masing-masing anggota tim).
+
+>> Status updates — fitur ini berfungsi untuk mengatur status proyek yang sedang dikerjakan sehingga pekerjaan lebih terpantau.
+
+>> Languages — dengan fitur ini, penggunanya bisa memilih mengoperasikan Asana dengan bahasa yang tersedia, seperti bahasa Inggris, Perancis, Jerman, Spanyol, dan Jepang.
+
+>> Rich text — rich text yang dimaksud adalah fitur untuk menebalkan, menggarisbawahi, memiringkan, dan mengatur teks supaya pesan yang disampaikan lebih jelas.
+
+3. Views
+
+Pada kategori Views, fitur yang tersedia adalah sebagai berikut.
+
+>> My tasks — fitur ini membantu penggunanya untuk merencanakan kegiatan atau aktivitas harian yang bisa diatur dengan skala prioritas.
+
+>> Inbox — fitur ini bermanfaat untuk menerima dan menyaring notifikasi untuk setiap tugas, percakapan, dan follow-up tugas.
+
+>> List — fitur berbentuk grid ini memudahkan penggunanya untuk membuat, menyaring, dan menghapus tugas-tugas sesuai keperluan.
+
+>> Search — fitur ini bisa dimanfaatkan untuk mencari dan menemukan informasi yang dibutuhkan supaya target pekerjaan cepat terpenuhi.
+
+>> Portfolios — fitur ini bisa digunakan untuk mengatur semua strategi dalam bekerja dan memantau status tiap-tiap project dalam satu tempat.
+
+>> Workload — dengan fitur ini, penggunanya bisa melihat banyaknya pekerjaan masing-masing anggota tim sehingga pembagian kerja bisa dilakukan dengan lebih adil.
+
+>> Calendars — fitur satu ini memfasilitasi penggunanya untuk melihat setiap tugas dalam format kalender.
+
+4. Team management
+
+Berikut adalah fitur yang tergolong ke dalam kategori team management.
+
+>> Teams — manfaatkan fitur ini untuk mengatur setiap project dan menghubungkan setiap anggota tim.
+
+>> Followers — supaya setiap anggota tim bisa memantau dan mengejar ketertinggalan dalam mengerjakan tugas, pengguna bisa menambahkan semua anggota tim sebagai followers.
+
+>> Permissions — gunakan fitur ini untuk membatasi akses ke tugas-tugas tertentu dan  menciptakan hidden teams untuk tugas rahasia.
+
+>> Admin controls — dengan fitur ini, pengguna bisa mendesain dan mengatur orang yang ingin ditambahkan atau dipindahkan serta memantau anggota tim termasuk melihat data dan password akunnya.
+
+5. Integration
+
+Asana terintegrasi dengan berbagai platform, seperti Gmail, Google Drive, Dropbox, Google Sheets, dan masih banyak lagi.
+
+# TUTORIAL PENGGUNAAN ASANA
 
 1. ASANA dapat digunakan melalui website pada alamat https://ASANA.com/ atau dengan cara menggunakan aplikasi desktop yang pada OS Windows disediakan versi 64-Bit dan 32-Bit.
 
