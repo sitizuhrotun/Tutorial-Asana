@@ -159,3 +159,9 @@ Asana terintegrasi dengan berbagai platform, seperti Gmail, Google Drive, Dropbo
 10. Pada bagian sedang mengerjakan, kita dapat memberikan tugas tersebut pada anggota tim kita.
 
 ![Screenshot (2302)](https://github.com/sitizuhrotun/Tutorial-Asana/assets/71641251/0a304989-74b8-44ba-90ab-3ae70252348a)
+
+## CONTOH TAMPILAN ASANA VERSI DEKSTOP
+
+https://github.com/sitizuhrotun/Tutorial-Asana/assets/71641251/40db0d91-d306-4c48-bd29-4c99f5ddf576
+
+
