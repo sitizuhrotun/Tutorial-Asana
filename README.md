@@ -164,4 +164,6 @@ Asana terintegrasi dengan berbagai platform, seperti Gmail, Google Drive, Dropbo
 
 https://github.com/sitizuhrotun/Tutorial-Asana/assets/71641251/40db0d91-d306-4c48-bd29-4c99f5ddf576
 
+## Link ACADEMIA.EDU
+https://www.academia.edu/s/8b549a9324?source=link
 
